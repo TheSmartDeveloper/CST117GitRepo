@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{2213821F-7400-4344-86A1-EF2D4F553F8F}|Default">
+  <MonoDevelop.Ide.ItemProperties.M4__Honda__App FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomerActions.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Database.cs" Line="2" Column="1" />
+      <File FileName="SalesActions.cs" Line="1" Column="1" />
+      <File FileName="CustomerActions.cs" Line="1" Column="1" />
+      <File FileName="MainWindow.cs" Line="11" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
