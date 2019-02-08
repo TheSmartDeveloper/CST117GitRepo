@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E1F4CA19-C08E-4022-B52A-9C67FB46B7E4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainWindow.cs">
+    <Files>
+      <File FileName="Program.cs" Line="6" Column="3" />
+      <File FileName="InventoryManager.cs" Line="23" Column="34" />
+      <File FileName="MainWindow.cs" Line="31" Column="63" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.ICA6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

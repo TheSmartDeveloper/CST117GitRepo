@@ -1,0 +1,4 @@
+/home/kevin/Kevin/school/CST117/workspace/MarsGUI/bin/Release/MarsGUI.exe
+/home/kevin/Kevin/school/CST117/workspace/MarsGUI/obj/x86/Release/MarsGUI.csprojResolveAssemblyReference.cache
+/home/kevin/Kevin/school/CST117/workspace/MarsGUI/obj/x86/Release/MarsGUI.csproj.CoreCompileInputs.cache
+/home/kevin/Kevin/school/CST117/workspace/MarsGUI/obj/x86/Release/MarsGUI.exe

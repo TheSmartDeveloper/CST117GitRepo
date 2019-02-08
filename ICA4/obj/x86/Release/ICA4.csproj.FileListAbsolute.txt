@@ -1,0 +1,4 @@
+/home/kevin/Kevin/school/CST117/workspace/ICA4/bin/Release/ICA4.exe
+/home/kevin/Kevin/school/CST117/workspace/ICA4/obj/x86/Release/ICA4.csprojResolveAssemblyReference.cache
+/home/kevin/Kevin/school/CST117/workspace/ICA4/obj/x86/Release/ICA4.csproj.CoreCompileInputs.cache
+/home/kevin/Kevin/school/CST117/workspace/ICA4/obj/x86/Release/ICA4.exe

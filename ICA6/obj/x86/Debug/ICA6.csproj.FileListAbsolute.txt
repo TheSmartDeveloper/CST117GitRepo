@@ -1,0 +1,6 @@
+/home/kevin/Kevin/school/CST117/workspace/ICA6/bin/Debug/ICA6.exe
+/home/kevin/Kevin/school/CST117/workspace/ICA6/bin/Debug/ICA6.pdb
+/home/kevin/Kevin/school/CST117/workspace/ICA6/obj/x86/Debug/ICA6.csproj.CoreCompileInputs.cache
+/home/kevin/Kevin/school/CST117/workspace/ICA6/obj/x86/Debug/ICA6.exe
+/home/kevin/Kevin/school/CST117/workspace/ICA6/obj/x86/Debug/ICA6.pdb
+/home/kevin/Kevin/school/CST117/workspace/ICA6/obj/x86/Debug/ICA6.csprojAssemblyReference.cache

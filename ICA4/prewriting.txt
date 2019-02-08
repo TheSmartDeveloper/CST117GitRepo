@@ -1,0 +1,12 @@
+1 day 3 hours 27 minutes and 45 seconds
+|-------------------------------------| = 98865 seconds
+1 day 3 hours 27 minutes and 45 seconds
+      |-------------------------------| = 12465 seconds
+1 day 3 hours 27 minutes and 45 seconds
+              |-----------------------| = 1665 seconds
+1 day 3 hours 27 minutes and 45 seconds
+                             |--------| = 45 seconds
+1 day = 86400 seconds
+1 hour = 3600 seconds
+1 minute = 60 seconds
+

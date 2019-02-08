@@ -1,0 +1,6 @@
+/home/kevin/Kevin/school/CST117/workspace/tictactoe/bin/Debug/tictactoe.exe
+/home/kevin/Kevin/school/CST117/workspace/tictactoe/bin/Debug/tictactoe.pdb
+/home/kevin/Kevin/school/CST117/workspace/tictactoe/obj/x86/Debug/tictactoe.csprojAssemblyReference.cache
+/home/kevin/Kevin/school/CST117/workspace/tictactoe/obj/x86/Debug/tictactoe.csproj.CoreCompileInputs.cache
+/home/kevin/Kevin/school/CST117/workspace/tictactoe/obj/x86/Debug/tictactoe.exe
+/home/kevin/Kevin/school/CST117/workspace/tictactoe/obj/x86/Debug/tictactoe.pdb

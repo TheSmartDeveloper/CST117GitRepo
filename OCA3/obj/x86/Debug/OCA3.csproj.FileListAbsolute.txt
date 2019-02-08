@@ -1,0 +1,6 @@
+/home/kevin/Kevin/school/CST117/workspace/OCA3/bin/Debug/OCA3.exe
+/home/kevin/Kevin/school/CST117/workspace/OCA3/bin/Debug/OCA3.pdb
+/home/kevin/Kevin/school/CST117/workspace/OCA3/obj/x86/Debug/OCA3.csprojResolveAssemblyReference.cache
+/home/kevin/Kevin/school/CST117/workspace/OCA3/obj/x86/Debug/OCA3.csproj.CoreCompileInputs.cache
+/home/kevin/Kevin/school/CST117/workspace/OCA3/obj/x86/Debug/OCA3.exe
+/home/kevin/Kevin/school/CST117/workspace/OCA3/obj/x86/Debug/OCA3.pdb

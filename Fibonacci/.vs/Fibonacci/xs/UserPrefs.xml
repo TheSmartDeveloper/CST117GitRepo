@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="fibonacci.cs">
+    <Files>
+      <File FileName="fibonacci.cs" Line="1" Column="14" />
+      <File FileName="../Factorial/Factorial/MyClass.cs" Line="11" Column="133" />
+      <File FileName="../Shape/Shape/ShapeClass.cs" Line="136" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Fibonacci FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
